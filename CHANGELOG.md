@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.97.0](https://github.com/Snowflake-Labs/terraform-provider-snowflake/compare/v0.96.0...v0.97.0) (2024-09-23)
+
+
+### 🎉 **What's new:**
+
+* Tasks v1 readiness - SDK part ([#3086](https://github.com/Snowflake-Labs/terraform-provider-snowflake/issues/3086)) ([0a77383](https://github.com/Snowflake-Labs/terraform-provider-snowflake/commit/0a77383ff51a13be40db72f4d0462fb92d0a4fbd))
+
 ## [0.96.0](https://github.com/Snowflake-Labs/terraform-provider-snowflake/compare/v0.95.0...v0.96.0) (2024-09-18)
 
 
